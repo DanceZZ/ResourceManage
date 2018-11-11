@@ -18,7 +18,17 @@
   * [如何展示自己的开源项目](http://blog.jobbole.com/112322/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
 
 ## 美化Github
-
+* 经验
+  * [美化自己GitHub项目的经验](https://www.jianshu.com/p/ae6749858f28)
 * README.md文件
   * [md文件展示右边所示的小图标](https://shields.io/#/examples/chat)  ![例如该图标](https://img.shields.io/badge/color-green-green.svg?longCache=true)
   
+
+## 学习网站
+
+[FreeCodeCamp](https://www.freecodecamp.cn/)
+
+
+## 其他资源
+[Android动态图标](https://android-material-icon-generator.bitdroid.de/)
+ 
