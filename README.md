@@ -22,7 +22,7 @@
   * [美化自己GitHub项目的经验](https://www.jianshu.com/p/ae6749858f28)
 * README.md文件
   * [md文件展示右边所示的小图标](https://shields.io/#/examples/chat)  ![例如该图标](https://img.shields.io/badge/color-green-green.svg?longCache=true)
-  
+  * [md文件展示右边所示的小图标](  https://github.com/fehmicansaglam/progressed.io)  ![例如该图标](http://progressed.io/bar/28)
 
 ## 学习网站
 
