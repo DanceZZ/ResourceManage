@@ -8,6 +8,8 @@
   * [知识框架](https://zhuanlan.zhihu.com/p/2878195)
   * [一个给大学生的学习资源，涵盖IT各个方向](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
   * [安全思维脑图](https://github.com/phith0n/Mind-Map)
+* 设计模式
+  * [史上最全设计模式](https://blog.csdn.net/lovelion/article/details/17517213)
 
 ## 面经
 > 这里是关于自己收藏的一些求职经验分享，其中关于各个种类的问题都有！
