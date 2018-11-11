@@ -16,6 +16,8 @@
   * [电商项目](https://blog.csdn.net/lihang_1994/article/details/74620538)
 * 面试问到开源项目
   * [如何展示自己的开源项目](http://blog.jobbole.com/112322/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
+* Java基础
+  *[由阿里巴巴Java开发规约HashMap条目引发的故事](https://zhuanlan.zhihu.com/p/30360734)
 
 ## 美化Github
 * 经验
