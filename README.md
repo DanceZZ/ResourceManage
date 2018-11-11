@@ -31,4 +31,5 @@
 
 ## 其他资源
 [Android动态图标](https://android-material-icon-generator.bitdroid.de/)
- 
+[在线gif动图制作](https://ezgif.com/)
+
