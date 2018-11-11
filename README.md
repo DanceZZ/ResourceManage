@@ -20,5 +20,6 @@
 ## 美化Github
 
 * README.md文件
-> https://img.shields.io/badge/color-green-green.svg?longCache=true
   * [md文件展示小图标](https://shields.io/#/examples/chat)
+  * > ![例如该图标](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+  
