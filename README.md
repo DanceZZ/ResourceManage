@@ -43,3 +43,4 @@
 * [开发者网站和工具](http://it-ebooks.flygon.net/developer/)
 
 ## 一些大牛博客
+* [开涛的博客](http://jinnianshilongnian.iteye.com/blog/1752171)
