@@ -32,6 +32,7 @@
 
 * [FreeCodeCamp](https://www.freecodecamp.cn/)
 * [慕课网](http://www.imooc.com)
+* [黄博机器学习入门资源](https://mp.weixin.qq.com/s?__biz=Mzg5NzAxMDgwNg==&mid=2247483872&idx=1&sn=a8d462ba6bbe582fd35d6a1240c15f86&chksm=c0791cf9f70e95ef60751437a698b0bee4188405bc9bedebea34611a96f7207c10a9b7309bfa&mpshare=1&scene=23&srcid=1109uwdyPOtcJoIvmQblsm9S#rd)
 
 ## 其他资源
 * [大学生网站合集](https://github.com/Xuanwo/WebsitesForStudents)
