@@ -47,6 +47,7 @@
 
 ## 会议
 - NIPS
+- CVPR
 - ICLR
 - AAAI  
 - IEEE CIG  
