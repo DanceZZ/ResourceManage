@@ -44,3 +44,11 @@
 
 ## 一些大牛博客
 * [开涛的博客](http://jinnianshilongnian.iteye.com/blog/1752171)
+
+## 会议
+- NIPS
+- ICLR
+- AAAI  
+- IEEE CIG  
+- IEEE ICMLA
+- ICML
