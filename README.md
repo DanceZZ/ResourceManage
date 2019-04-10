@@ -11,6 +11,7 @@
 * 设计模式
   * [史上最全设计模式](https://blog.csdn.net/lovelion/article/details/17517213)
   * [黄博机器学习入门资源](https://mp.weixin.qq.com/s?__biz=Mzg5NzAxMDgwNg==&mid=2247483872&idx=1&sn=a8d462ba6bbe582fd35d6a1240c15f86&chksm=c0791cf9f70e95ef60751437a698b0bee4188405bc9bedebea34611a96f7207c10a9b7309bfa&mpshare=1&scene=23&srcid=1109uwdyPOtcJoIvmQblsm9S#rd)
+  * [机器学习回归方法总结](https://mp.weixin.qq.com/s?__biz=Mzg5NzAxMDgwNg==&mid=2247484173&idx=1&sn=e32dffb596f864bd9dbec8c61eaeebf2&chksm=c0791e14f70e970277df77ca4b85874c9025b74df87218d2edef1945d45c801af0c49f3e0e2f&mpshare=1&scene=23&srcid=04104aK57fGFvCbI1cBvroyY#rd)
 
 ## 面经
 > 这里是关于自己收藏的一些求职经验分享，其中关于各个种类的问题都有！
@@ -53,3 +54,7 @@
 - IEEE CIG  
 - IEEE ICMLA
 - ICML
+- SIGGRAPH
+
+## 期刊
+- ACM TOG
