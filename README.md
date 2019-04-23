@@ -1,7 +1,8 @@
 # ResourceManage
 分享自己收录的一些学习资源，希望可以帮助大家，谢谢！
 
-
+## 有名的计算机视觉团队汇总
+[site](https://www.jianshu.com/p/9e08b6fa7a13)
 
 ## 学习路线
 * 程序员知识框架
