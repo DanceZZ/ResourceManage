@@ -44,7 +44,7 @@
 * [在线gif动图制作](https://ezgif.com/)
 * [gif制作工具](https://github.com/NickeManarin/ScreenToGif)
 * [开发者网站和工具](http://it-ebooks.flygon.net/developer/)
-
+* [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 ## 一些大牛博客
 * [开涛的博客](http://jinnianshilongnian.iteye.com/blog/1752171)
 
