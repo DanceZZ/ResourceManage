@@ -1,6 +1,27 @@
 # ResourceManage
 分享自己收录的一些学习资源，希望可以帮助大家，谢谢！
 
+## 算法coding平台
+  * [leetcode](https://leetcode-cn.com/)
+  * [洛谷](https://www.luogu.org/)
+
+
+## 比赛平台
+* 高校计算机大赛
+  * [中国高校计算机大赛](http://www.c4best.cn/sy)
+* 数据竞赛平台
+  * [天池](https://zhuanlan.zhihu.com/p/2878195)
+  * [kdd](https://zhuanlan.zhihu.com/p/2878195)
+  * [kaggle](https://zhuanlan.zhihu.com/p/2878195)
+  * [dc竞赛](https://www.pkbigdata.com/common/cmptIndex.html)
+  * [FlyAI](https://www.flyai.com/)
+  * [kesci](https://www.kesci.com/home/competition)
+
+* 程序设计竞赛
+[中国大学生程序设计竞赛](https://ccpc.io/event)
+[百度之星](http://star.baidu.com/)
+[华为软件精英挑战赛](https://codecraft.huawei.com/GeneralIntro)
+
 ## 有名的计算机视觉团队汇总
 [site](https://www.jianshu.com/p/9e08b6fa7a13)
 
