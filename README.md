@@ -2,6 +2,7 @@
 分享自己收录的一些学习资源，希望可以帮助大家，谢谢！
 
 ## 算法coding平台
+  * [TopCoder](https://www.topcoder.com/)
   * [leetcode](https://leetcode-cn.com/)
   * [洛谷](https://www.luogu.org/)
 
@@ -21,7 +22,6 @@
 [中国大学生程序设计竞赛](https://ccpc.io/event)
 [百度之星](http://star.baidu.com/)
 [华为软件精英挑战赛](https://codecraft.huawei.com/GeneralIntro)
-
 ## 有名的计算机视觉团队汇总
 [site](https://www.jianshu.com/p/9e08b6fa7a13)
 
