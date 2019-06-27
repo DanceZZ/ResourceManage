@@ -11,12 +11,12 @@
 * 高校计算机大赛
   * [中国高校计算机大赛](http://www.c4best.cn/sy)
 * 数据竞赛平台
-  * [天池](https://zhuanlan.zhihu.com/p/2878195)
-  * [kdd](https://zhuanlan.zhihu.com/p/2878195)
-  * [kaggle](https://zhuanlan.zhihu.com/p/2878195)
-  * [dc竞赛](https://www.pkbigdata.com/common/cmptIndex.html)
-  * [FlyAI](https://www.flyai.com/)
-  * [kesci](https://www.kesci.com/home/competition)
+  * - [天池](https://zhuanlan.zhihu.com/p/2878195)
+  * - [kdd](https://zhuanlan.zhihu.com/p/2878195)
+  * - [kaggle](https://zhuanlan.zhihu.com/p/2878195)
+  * - [dc竞赛](https://www.pkbigdata.com/common/cmptIndex.html)
+  * - [FlyAI](https://www.flyai.com/)
+  * - [kesci](https://www.kesci.com/home/competition)
 
 * 程序设计竞赛
 [中国大学生程序设计竞赛](https://ccpc.io/event)
@@ -66,6 +66,7 @@
 * [gif制作工具](https://github.com/NickeManarin/ScreenToGif)
 * [开发者网站和工具](http://it-ebooks.flygon.net/developer/)
 * [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+
 ## 一些大牛博客
 * [开涛的博客](http://jinnianshilongnian.iteye.com/blog/1752171)
 
